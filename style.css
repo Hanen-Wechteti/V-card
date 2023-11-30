@@ -75,7 +75,7 @@ a{
     border-radius: 6%;
 }
 .container {
-    width: 100%; /* 80% de la largeur de son conteneur parent */
+    width: 100%; /* 100% de la largeur de son conteneur parent */
     font-size: 1.2em; /* Taille de police 1.2 fois la taille par défaut */
   }
 
